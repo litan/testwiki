@@ -1,3 +1,3 @@
 name: Test Wiki
 markdown: kramdown
-theme: Architect
+theme: jekyll-theme-architect
