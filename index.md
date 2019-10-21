@@ -1,5 +1,9 @@
-# Hello World
-* Item 1
-* Item 2
+---
+layout: default
+title: "Happy Jekylling!"
+---
 
-Some text
+## You're ready to go!
+
+Start developing your Jekyll website.  abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc 
+Yay
